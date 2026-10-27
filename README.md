@@ -211,3 +211,15 @@ Para reiniciar un servicio:
 ```bash
 sudo systemctl restart <servicio>
 ```
+
+## Gestión de usuarios
+
+Para crear un nuevo usuario:
+```bash
+sudo useradd -m <nombre_usuario>
+```
+
+Para cambiar o asignar contraseña:
+```bash
+sudo passwd <nombre_usuario>
+```
