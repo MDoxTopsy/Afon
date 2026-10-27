@@ -187,3 +187,15 @@ Para poner en marcha máquinas virtuales en VirtualBox con soporte completo de p
 * [Documentación oficial de VMware Workstation Pro](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
 * [Repositorio oficial y guía de open-vm-tools](https://github.com/vmware/open-vm-tools)
 * [Ubuntu Cinnamon Remix - Sitio web y notas de lanzamiento](https://ubuntucinnamon.org/)
+
+## Comandos útiles
+
+Para consultar la configuración de red:
+```bash
+ip addr
+```
+
+Para comprobar la conectividad:
+```bash
+ping 8.8.8.8
+```
