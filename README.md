@@ -227,3 +227,8 @@ sudo passwd <nombre_usuario>
 Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
 y el repositorio remoto se encuentra alojado en GitHub.
+
+## Próximas mejoras
+- Ampliar la sección de comandos de red con ejemplos prácticos.
+- Añadir capturas ilustrativas del despliegue en WSL2.
+- Incluir un apartado sobre automatización mediante scripts Bash.
