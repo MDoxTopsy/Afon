@@ -232,3 +232,9 @@ y el repositorio remoto se encuentra alojado en GitHub.
 - Ampliar la sección de comandos de red con ejemplos prácticos.
 - Añadir capturas ilustrativas del despliegue en WSL2.
 - Incluir un apartado sobre automatización mediante scripts Bash.
+
+## Recomendaciones de seguridad
+
+- **Actualización periódica del sistema:** Mantener tanto el sistema operativo anfitrión como las máquinas virtuales invitados actualizados con los últimos parches de seguridad.
+- **Configuración de cortafuegos (Firewall):** Limitar los puertos abiertos únicamente a los servicios estrictamente necesarios para el despliegue.
+- **Control de acceso y autenticación:** Utilizar contraseñas robustas y deshabilitar el acceso directo como usuario `root` mediante SSH en los servidores virtuales.
